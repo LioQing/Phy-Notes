@@ -6,11 +6,11 @@
 def: the ratio of the *useful* energy output E<sub>out</sub> to the electrical energy input E<sub>in</sub>
 
 ![formula](https://render.githubusercontent.com/render/math?math=\LARGE\eta=\frac{E_{out}}{E_{in}}\times100percent)  
-*η*: efficiency
-*E*<sub>out</sub>: energy output
-*E*<sub>in</sub>: energy input
+*η*: efficiency  
+*E*<sub>out</sub>: energy output  
+*E*<sub>in</sub>: energy input  
 
-**energy efficiency labels**
+**energy efficiency labels**  
 Energy Efficiency Labelling Scheme (EELS) in HK  
  
 <img src="https://www.emsd.gov.hk/energylabel/mobile/en/images/faq_label.jpg" height="400px">  
@@ -32,9 +32,9 @@ image from government website: https://www.emsd.gov.hk/energylabel/en/about/back
 **luminous flux**  
 def: the *brightness* of a light sourse as it *appears to the human eye*  
 
-factors:
-1\. amount of light energy emitted by the source per unit time, i.e. the *power output*
-2\. response of the human eye to the *wavelengths* of light emitted  
+factors:  
+1\. amount of light energy emitted by the source per unit time, i.e. the *power output*  
+2\. response of the human eye to the *wavelengths* of light emitted   
 
 unit: lumen (lm)  
 symbol: Φ
@@ -56,9 +56,9 @@ when an atom is excited, it absorbs energy and the electron jump to higher energ
 excited atom is unstable  
 electron return to lower energy level, emitting EM wave
 
-### Types of lighting
+### Types of lighting  
 
-**incandescent lamp** 
+**incandescent lamp**  
 by heating the filament to high temperature (~2000°C) emitting lights  
 most energy is *lost from emitting IR*
 
@@ -136,7 +136,7 @@ major advantage | cheap | price_efficacy balance | high efficacy
 major disadvantage | low efficacy | mercury content | heavy-metal content
 current | AC/DC | (mostly)AC | DC
 
-**colour spectrum**
+**colour spectrum**  
 <img src="https://hips.hearstapps.com/pop.h-cdn.co/assets/cm/15/06/54d11defcb70b_-_lightbulb-wars-00-0911-xln.jpg?resize=500:*">  
 
 image from popular mechanics: https://www.popularmechanics.com/technology/gadgets/reviews/g164/incandescent-vs-compact-fluorescent-vs-led-ultimate-light-bulb-test/  
@@ -145,11 +145,11 @@ image from popular mechanics: https://www.popularmechanics.com/technology/gadget
 
 **illuminance**  
 def: the *luminous flux* falling on a surface *per unit area* (perpendicularly)  
-![formula](https://render.githubusercontent.com/render/math?math=\LARGE\\\E_{0}=\frac{\phi}{A}) 
+![formula](https://render.githubusercontent.com/render/math?math=\LARGE\\\E_{0}=\frac{\phi}{A})  
 *E*<sub>0</sub>: illuminance on suface perpendicular to the incident light  
 *A*: area  
 
-**Lambert's cosine law**: 
+**Lambert's cosine law**:  
 ![formula](https://render.githubusercontent.com/render/math?math=\LARGE\\\E=E_{0}cos\theta=\frac{\phi}{A}cos\theta)  
 *E*: illuminance  
 *θ*: incident angle  
@@ -159,7 +159,7 @@ unit: lux (lx)
 **point light source**  
 a *small* light source giving out light *evenly in all directions*
 
-**inverse-square law**:
+**inverse-square law**:  
 ![formula](https://render.githubusercontent.com/render/math?math=\LARGE\\\E_{0}=\frac{\phi}{A}=\frac{\phi}{4\pi\\\r^2})  
 r: distance from the source
 
