@@ -30,10 +30,10 @@ image from government website: https://www.emsd.gov.hk/energylabel/en/about/back
 ## 1.2 Lighting
 
 **luminous flux**  
-def: the *brightness* of a light sourse as it *appears to the human eye*  
+def: *perceived power* of light from a light source 
 
 factors:  
-1\. amount of light energy emitted by the source per unit time, i.e. the *power output*  
+1\. power of light energy emitted by the source, i.e. the *power output*  
 2\. response of the human eye to the *wavelengths* of light emitted   
 
 unit: lumen (lm)  
@@ -138,7 +138,7 @@ working temperature | high | medium | low
 price | low | medium | high
 lifetime | short | medium | long
 efficacy | low | medium | high
-major advantage | cheap | price_efficacy balance | high efficacy
+major advantage | cheap | price-efficacy balance | high efficacy
 major disadvantage | low efficacy | mercury content (pollution), electronic waste | heavy-metal content, electronic waste
 current | AC/DC | (mostly)AC | DC
 
