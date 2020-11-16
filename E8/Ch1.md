@@ -87,7 +87,7 @@ has a folded tube for replacing incandescent lamp
 promoted as *energy-saving lamps*  
 
 3 stages of **light emission procedure**:  
-1\. a large pd. is applied, an E-field is set up, electrons emitted from one filament to another  
+1\. a large pd. is applied, an E-field is set up, electrons accelerate from one filament to another  
 => ionizes the argon gas, form a current  
 
 2\. mercury atoms gain energy and excited when bombarded with electrons  
@@ -101,10 +101,13 @@ components:
 => provide a large voltage to start the gas discharge  
 
 \- **ballast**  
-=> stabilize the current  
+=> control and stabilize the current  
 
 \- filled with low pressure inert gas  
 => increase chance of electrons interacting with the mercury atoms  
+
+\- inner wall coated with phosphor powder  
+=> emit light  
 
 **light emitting diodes (LED) lamp**  
 make use of semiconductors to work  
@@ -122,6 +125,9 @@ image from electronicnotes: https://www.electronics-notes.com/articles/electroni
 2\. electron fall into a hole, i.e. jumps down to lower energy level  
 => visible light is released  
 
+3\. the difference in the energy levels of the two semiconductor  
+=> colour of the light
+
 **comparison table**
 
 </empty> | incandescent lamp | gas discharge lamp | LED lamp 
@@ -133,7 +139,7 @@ price | low | medium | high
 lifetime | short | medium | long
 efficacy | low | medium | high
 major advantage | cheap | price_efficacy balance | high efficacy
-major disadvantage | low efficacy | mercury content | heavy-metal content
+major disadvantage | low efficacy | mercury content (pollution), electronic waste | heavy-metal content, electronic waste
 current | AC/DC | (mostly)AC | DC
 
 **colour spectrum**  
