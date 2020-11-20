@@ -30,7 +30,8 @@ image from government website: https://www.emsd.gov.hk/energylabel/en/about/back
 ## 1.2 Lighting
 
 **luminous flux**  
-def: *perceived power* of light from a light source 
+def: power of light from a light source with respect to the responsiveness of human eye to different wavelengths (for clearer answer)  
+def: *perceived power* of light from a light source (according to wikipedia)
 
 factors:  
 1\. power of light energy emitted by the source, i.e. the *power output*  
