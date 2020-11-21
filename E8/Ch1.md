@@ -7,8 +7,8 @@ def: the ratio of the *useful* energy output E<sub>out</sub> to the electrical e
 
 ![formula](https://render.githubusercontent.com/render/math?math=\LARGE\eta=\frac{E_{out}}{E_{in}}\times100percent)  
 *η*: efficiency  
-*E*<sub>out</sub>: energy output  
-*E*<sub>in</sub>: energy input  
+*E<sub>out</sub>*: energy output  
+*E<sub>in</sub>*: energy input  
 
 **energy efficiency labels**  
 Energy Efficiency Labelling Scheme (EELS) in HK  
@@ -46,7 +46,7 @@ this information is shown on energy label (HK)
 
 ![formula](https://render.githubusercontent.com/render/math?math=\LARGE\efficacy=\frac{\phi}{P_{in}})  
 *Φ*: luminous flux  
-*P*<sub>in</sub>: power input
+*P<sub>in</sub>*: power input
 
 unit: lm W<sup>-1</sup>  
 
