@@ -33,22 +33,24 @@ image from government website: https://www.emsd.gov.hk/energylabel/en/about/back
 def: power of light from a light source with respect to the responsiveness of human eye to different wavelengths (for clearer answer)  
 def: *perceived power* of light from a light source (according to wikipedia)
 
+unit: lumen (lm)  
+
 factors:  
 1\. power of light energy emitted by the source, i.e. the *power output*  
 2\. response of the human eye to the *wavelengths* of light emitted   
 
-unit: lumen (lm)  
 symbol: Φ
 
 **luminous efficacy**  
 def: how efficiently a lighting device converts *electricity into light*  
+
+unit: lm W<sup>-1</sup>  
+
 this information is shown on energy label (HK)
 
 ![formula](https://render.githubusercontent.com/render/math?math=\LARGE\efficacy=\frac{\phi}{P_{in}})  
 *Φ*: luminous flux  
 *P<sub>in</sub>*: power input
-
-unit: lm W<sup>-1</sup>  
 
 **energy level**  
 def: electron in a state corresponds to a specific value of energy  
@@ -152,6 +154,9 @@ image from popular mechanics: https://www.popularmechanics.com/technology/gadget
 
 **illuminance**  
 def: the *luminous flux* falling on a surface *per unit area* (perpendicularly)  
+
+unit: lux (lx)
+
 ![formula](https://render.githubusercontent.com/render/math?math=\LARGE\\\E_{0}=\frac{\phi}{A})  
 *E*<sub>0</sub>: illuminance on suface perpendicular to the incident light  
 *A*: area  
@@ -160,8 +165,6 @@ def: the *luminous flux* falling on a surface *per unit area* (perpendicularly)
 ![formula](https://render.githubusercontent.com/render/math?math=\LARGE\\\E=E_{0}cos\theta=\frac{\phi}{A}cos\theta)  
 *E*: illuminance  
 *θ*: incident angle  
-
-unit: lux (lx)
 
 **point light source**  
 a *small* light source giving out light *evenly in all directions*

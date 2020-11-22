@@ -43,3 +43,78 @@ working principle | fire | heating effect of current | EM induction & heating ef
 energy efficiency | low (gas stoves: ~40%) | medium (~70%) | high (~80%) | medium (~60%)
 main advantage | quick to change temperature | cheap | high energy efficiecny | cook food evenly throughout
 main disadvantage | gas leak is dangerous | cooking surface is very hot during operation | cooking utensils must be electrically conducting | for food of rich water content only
+
+## 2.2 Air conditioning  
+
+**air conditioners**  
+are used to move heat from one place to another  
+
+**cooling capacity**  
+def: the *heat removed per unit time*  
+
+unit: watt (W) or kilowatt (kW)  
+
+![formula](https://render.githubusercontent.com/render/math?math=\LARGE\cooling%20\capacity=\frac{Q_{c}}{t})  
+*Q<sub>c<sub>*: amount of heat removed  
+*t*: length of time  
+
+**coefficient of performance (COP)**  
+def: the *ratio* of amount of *heat removed* to the amount of *work done* for the removal  
+
+![formula](https://render.githubusercontent.com/render/math?math=\LARGE\COP=\frac{Q_{c}}{W}=\frac{\cooling%20\capacity}{P_{in}})  
+*W*: work done  
+*P<sub>in<sub>*: electrical power input  
+
+**refrigeration cycle**  
+is the process of the removal of heat  
+
+components:  
+\- **refrigerant**   
+=> absorb latent heat from the indoor  
+=> release latent heat to the outdoor  
+\- **the evaporator**  
+=> consists of coiled tubes  
+\- **the compressor**  
+=> compresses the vaporised refrigerant  
+\- **the condenser**  
+=> consist of coiled tubes  
+\- **the expansion valve** (aka throttling device)  
+=> expands the liquid refrigerant  
+\- fan  
+=> control the heat flow in air
+
+process:  
+1\. evaporation: *refrigerant* flows through the *evaporator*  
+=> *absorb latent heat* of vaporisation from indoor and evaporates  
+2\. compression: *compressor* compresses the *vaporised refrigerant*  
+=> *high temperature and pressure*  
+3\. condensation: *refrigerant* *releases latent heat* to outdoor in the condensor  
+=> change back to a *liquid*  
+4\. expansion/throttling: *expansion valve* expands the liquid refrigerant  
+=> *low temperature and pressure*  
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Refrigeration.png" height="300">  
+
+image from wikipedia: https://en.wikipedia.org/wiki/Heat_pump_and_refrigeration_cycle  
+
+
+PV diagram of refrigeration cycle:  
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Refrigeration_PV_diagram.svg" height="300">  
+
+image from wikipedia: https://commons.wikimedia.org/wiki/File:Refrigeration_PV_diagram.svg  
+
+**type of air conditioner**  
+- window type air conditioner  
+	- all the components are in one unit  
+- split type air conditioner  
+	- indoor unit consists the evaporator  
+	- the outdoor unit consists the compressor, condenser, expansion valve  
+- central air conditioning system  
+	- usually use water as the coolant (chilled water central air conditioning system)  
+	- air handling unit (AHU) for aborption of latent heat by the coolant  
+	- chiller cool down warmed coolant  
+	- dihumidification in AHU dry up the cooled air  
+
+**energy labels for air conditioners**  
+in HK, all air conditioners must have energy labels
