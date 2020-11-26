@@ -32,7 +32,6 @@ image from government website: https://www.emsd.gov.hk/energylabel/en/about/back
 **luminous flux**  
 def: power of light from a light source with respect to the responsiveness of human eye to different wavelengths (for clearer answer)  
 def: *perceived power* of light from a light source (according to wikipedia)
-
 unit: lumen (lm)  
 
 factors:  
@@ -43,7 +42,6 @@ symbol: Φ
 
 **luminous efficacy**  
 def: how efficiently a lighting device converts *electricity into light*  
-
 unit: lm W<sup>-1</sup>  
 
 this information is shown on energy label (HK)
@@ -154,7 +152,6 @@ image from popular mechanics: https://www.popularmechanics.com/technology/gadget
 
 **illuminance**  
 def: the *luminous flux* falling on a surface *per unit area* (perpendicularly)  
-
 unit: lux (lx)
 
 ![formula](https://render.githubusercontent.com/render/math?math=\LARGE\\\E_{0}=\frac{\phi}{A})  

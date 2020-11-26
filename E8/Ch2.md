@@ -51,7 +51,6 @@ are used to move heat from one place to another
 
 **cooling capacity**  
 def: the *heat removed per unit time*  
-
 unit: watt (W) or kilowatt (kW)  
 
 ![formula](https://render.githubusercontent.com/render/math?math=\LARGE\cooling%20\capacity=\frac{Q_{c}}{t})  
