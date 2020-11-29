@@ -58,7 +58,7 @@ def: rate of heat gain per unit area *through the building envelope* (averaged o
 - shades
 	- control shades => control radiation
 - design
-	- direction of facing
+	- orientation
 
 ## 3.2 Energy Efficiency in Transportation
 
@@ -78,7 +78,7 @@ chemical energy (battery) (*100%*) -> lithium ion battery (*1% lost*) -> electri
   
 *regenerative breaking system*:  
 1\. car brakes  
-2\. motor act as a generator to convert part of KE into electrical energy
+2\. motor act as a generator to convert *part of KE* into electrical energy
 
 **hybrid electric vehicles (HEV)**  
 combines traditional and electric vehicles  
@@ -114,3 +114,5 @@ examples:
 - diesel
 	- buses
 	- ferries
+- LPG
+	- taxis
