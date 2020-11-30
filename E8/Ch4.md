@@ -182,3 +182,44 @@ Cons:
 \- manufacturing solar cells may cause pollution  
 \- solar cells are expensive and low efficiency  
 \- dc current produced need to be converted to ac  
+
+## 4.3 Energy, Society and Environment  
+
+**air pollution**  
+produced during:  
+\- extracting, refining and transporting fuels  
+\- building power plants  
+\- converting energy sources to electricity (e.g. burining fossil fuels)  
+\- maintaining the parts (e.g. lubrication)  
+\- dismantling power plants  
+
+**air pollutants**  
+- SO<sub>2</sub>  
+	- causes respiratory diseases
+	- produce acid rain
+- NO<sub>x</sub>  
+	- produce photochemical smog
+	- causes respiratory diseases
+	- stimulate excess growth of algae and weeds in the river
+	- produce acid rain
+- NMVOC  
+	- cause cancers (benzene)
+- CO
+	- reduce oxygen delivery to the body's organ
+- particulates
+	- cause irritation
+
+ways to reduce emission:  
+\- set up devices to remove SO<sub>2</sub> and NO<sub>x</sub>  
+\- use coal with low sulphur content or natural gas  
+\- use better quality diesel fuel  
+\- upgrade catalytic converters  
+
+**global warming**  
+greenhouse gases:  
+\- carbon dioxide  
+\- nitrous oxide  
+\- methane  
+\- flourinated gases  
+\- ozone, troposphere  
+\- water vapour
