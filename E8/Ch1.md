@@ -13,7 +13,7 @@ def: the ratio of the *useful* energy output E<sub>out</sub> to the electrical e
 **energy efficiency labels**  
 Energy Efficiency Labelling Scheme (EELS) in HK  
  
-<img src="https://www.emsd.gov.hk/energylabel/mobile/en/images/faq_label.jpg" height="400px">  
+<img src="https://www.emsd.gov.hk/energylabel/mobile/en/images/faq_label.jpg">  
 
 image from government website: https://www.emsd.gov.hk/energylabel/en/about/background2.html 
 
@@ -63,7 +63,7 @@ electron return to lower energy level, emitting EM wave
 by heating the filament to high temperature (~2000°C) emitting lights  
 most energy is *lost from emitting IR*
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Incandescent_light_bulb.svg/800px-Incandescent_light_bulb.svg.png" height="300">  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Incandescent_light_bulb.svg/800px-Incandescent_light_bulb.svg.png">  
 
 image from wikipedia: https://en.wikipedia.org/wiki/Incandescent_light_bulb
 
@@ -115,7 +115,7 @@ make use of semiconductors to work
 consists of p-type and n-type semiconductors  
 require DC, convert using *rectifier*
 
-<img src="https://www.electronics-notes.com/images/diode-light-emitting-led-operation-theory.svg" height="350">  
+<img src="https://www.electronics-notes.com/images/diode-light-emitting-led-operation-theory.svg">  
 
 image from electronicnotes: https://www.electronics-notes.com/articles/electronic_components/diode/light-emitting-diode-led-technology-how-does-led-work.php  
 
@@ -144,7 +144,7 @@ major disadvantage | low efficacy | mercury content (pollution), electronic wast
 current | AC/DC | (mostly)AC | DC
 
 **colour spectrum**  
-<img src="https://hips.hearstapps.com/pop.h-cdn.co/assets/cm/15/06/54d11defcb70b_-_lightbulb-wars-00-0911-xln.jpg?resize=500:*">  
+<img src="https://hips.hearstapps.com/pop.h-cdn.co/assets/cm/15/06/54d11defcb70b_-_lightbulb-wars-00-0911-xln.jpg?">  
 
 image from popular mechanics: https://www.popularmechanics.com/technology/gadgets/reviews/g164/incandescent-vs-compact-fluorescent-vs-led-ultimate-light-bulb-test/  
 

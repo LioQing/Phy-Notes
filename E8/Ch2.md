@@ -92,14 +92,14 @@ process:
 4\. expansion/throttling: *expansion valve* expands the liquid refrigerant  
 => *low temperature and pressure*  
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Refrigeration.png" height="300">  
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Refrigeration.png">  
 
 image from wikipedia: https://en.wikipedia.org/wiki/Heat_pump_and_refrigeration_cycle  
 
 
 PV diagram of refrigeration cycle:  
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Refrigeration_PV_diagram.svg" height="300">  
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Refrigeration_PV_diagram.svg">  
 
 image from wikipedia: https://commons.wikimedia.org/wiki/File:Refrigeration_PV_diagram.svg  
 
