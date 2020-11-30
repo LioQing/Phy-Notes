@@ -80,14 +80,22 @@ safety
 	- *nuclear waste* is permanently sealed and buried deep underground
 
 Pros:  
-\- do not produce CO2 or smoke particles  
-\- lot of energy is produced from a small amount of fuel  
+\- *do not produce CO2 or smoke particles*  
+\- *lot of energy* is produced from a *small amount of fuel*  
 
 Cons:  
-\- waste is radioactive and has long half life  
-\- building the reactor is expensive
+\- *waste* is *radioactive* and has *long half life*  
+\- building the reactor is *expensive*
 \- ending the service of nuclear power is expensive  
-\- danger when accidents happen, radiation can spread over wide area and have great impact  
+\- danger when accidents happen, *radiation can spread over wide area* and have great impact  
+
+fission nuclear reactor diagram:  
+<img src="https://i.pinimg.com/originals/fc/e3/21/fce3215aaa9f5b97023eb68984f638b3.jpg">  
+
+image from: https://www.pinterest.com/pin/114630752994305815/  
+annotations:  
+\- steam generator: boiler  
+\- hot water: pressurized water  
 
 **wind power**  
 renewable energy  
