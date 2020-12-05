@@ -33,12 +33,11 @@ image from government website: https://www.emsd.gov.hk/energylabel/en/about/back
 def: power of light from a light source with respect to the responsiveness of human eye to different wavelengths (for clearer answer)  
 def: *perceived power* of light from a light source (according to wikipedia)
 unit: lumen (lm)  
+symbol: Φ  
 
 factors:  
 1\. power of light energy emitted by the source, i.e. the *power output*  
 2\. response of the human eye to the *wavelengths* of light emitted   
-
-symbol: Φ
 
 **luminous efficacy**  
 def: how efficiently a lighting device converts *electricity into light*  
