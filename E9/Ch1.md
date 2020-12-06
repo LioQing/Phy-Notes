@@ -40,6 +40,7 @@ vitreous humour | 1.34
 sensitive to | intensities of light | colours of light
 responsible in env. and sensitive in | dark env. | bright env.
 distribution | none in yellow spot and blind spot | none in blind spot, concentrated in yellow spot  
+types | only 1 type | 3 types: mainly responsible for red, green, blue respectively
 <br>
 
 **power of lens**  
