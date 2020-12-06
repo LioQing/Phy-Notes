@@ -20,6 +20,11 @@ process of sense of vision:
 4. falls on **retina**
 5. nerve impulses sent to the brain through **optic nerve**  
 
+image produced in the eye:  
+- inverted
+- real
+- diminished
+
 medium | refractive index
 --- | ---
 air | 1.00
@@ -33,7 +38,7 @@ vitreous humour | 1.34
 </empty> | rod cells | cone cells
 --- | --- | ---
 sensitive to | intensities of light | colours of light
-responsible in env. | dark env. | bright env.
+responsible in env. and sensitive in | dark env. | bright env.
 distribution | none in yellow spot and blind spot | none in blind spot, concentrated in yellow spot  
 <br>
 
