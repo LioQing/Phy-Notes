@@ -165,3 +165,60 @@ high frequency => high resolution
 --- | --- | ---
 attenuation (penetration) | high (low) | low (high)
 resolution | high | low
+
+## 2.3 Endoscopy
+
+**total internal reflection**  
+def: all the light incident on the boundary is reflected
+
+conditions:  
+\- light ray from optically denser to less dense medium  
+\- angle of incidence > critical angle  
+
+**critical angle**  
+def: the minimum angle of incidence for TIR to occur
+symbol: C  
+
+![formula](https://render.githubusercontent.com/render/math?math=\LARGE\\\sinC=\frac{n_{2}}{n_{1}})  
+
+*n<sub>x</sub>*: reflective index of medium X  
+remark: *n<sub>2</sub>* < *n<sub>1</sub>*  
+
+**optical fibre**  
+structure: glass core surrounded by cladding of slightly lower reflective index  
+
+usage of cladding:  
+\- protect the core  
+\- prevent dust causing refraction instead  
+
+<img src="https://i.stack.imgur.com/oO5Ai.jpg">  
+
+iamge from: https://math.stackexchange.com/questions/2734479/maximum-incidence-angle-in-optic-fiber  
+
+max entrance angle θ<sub>a</sub> is given by:  
+1\. sin θ<sub>c</sub>=n<sub>c</sub>/n<sub>f</sub>  
+2\. θ<sub>t</sub> = 90°- θ<sub>c</sub>  
+3\. n<sub>i</sub> sin θ<sub>a</sub> = n<sub>f</sub> sin θ<sub>t</sub>  
+
+**endoscope**  
+
+<img src="https://i.pinimg.com/originals/7d/41/9f/7d419f056373f7359f11f82a46f9a54e.gif">  
+
+iamge from: https://www.pinterest.com/pin/56224695325377162/  
+
+<img src="https://www.max-more.com/wp-content/uploads/2020/02/detail-5.png">  
+
+image from: https://www.max-more.com/ 
+
+types:  
+\- rigid  
+\- flexible  
+
+tip of endoscope:  
+\- one channel for passing down tools such as forceps for cutting tissues  
+\- one channel (coherent) for transmit image  
+\- one channel (incoherent) for illumination  
+\- one channel for passing down air or water  
+
+**coherent & incoherent fibre bundles**  
+coherent fibre bundle: the relative positions of fibres in the bundle are the same between the 2 ends  
