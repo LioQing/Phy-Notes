@@ -220,5 +220,28 @@ tip of endoscope:
 \- one channel (incoherent) for illumination  
 \- one channel for passing down air or water  
 
+usage:  
+\- diagnosis of hollow organs such as stomach and colon  
+\- keyhole surgery, only few cuts are made in the body  
+
+advantages:  
+\- allows doctor to inspect inner surface of body through natural openings  
+\- no ionizing radiation  
+\- keyhole surgery can speed up recovery time  
+\- small tissue samples can be taken out  
+
+disadvantages:  
+\- require anaesthesia  
+\- may require fasting  
+\- field of view is relative narrow  
+\- can only be used for viewing inner surface of organ with cavity  
+\- minimal invasive  
+\- may cause internal bleeding or allergic reaction  
+
 **coherent & incoherent fibre bundles**  
 coherent fibre bundle: the relative positions of fibres in the bundle are the same between the 2 ends  
+
+**resolution**  
+factors:  
+\- fineness of each fibre  
+\- number of fibre in the bundle
