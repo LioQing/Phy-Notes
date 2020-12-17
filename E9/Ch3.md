@@ -3,21 +3,21 @@
 ## 3.1 X-rays and Radiographic Imaging
 
 **Ionizing Radiation**  
-\- has very high energy  
-\- can ionize atom or molecule  
-\- can damage or kill living tissues  
-\- higher frequencies => higher energy  
-\- small size or wavelength  
-\- can penetrate deep into material  
-\- from UV to gamma ray  
+- has very high energy  
+- can ionize atom or molecule  
+- can damage or kill living tissues  
+- higher frequencies => higher energy  
+- small size or wavelength  
+- can penetrate deep into material  
+- from UV to gamma ray  
 
 **X-rays**  
 nature:  
-\- EM waves
-\- high frequencies  
-\- can blacken photographic film through chemical reaction  
-\- frequency range: 10<sup>16</sup> to 10<sup>19</sup> Hz  
-\- energy range: 100 eV to 100 keV  
+- EM waves
+- high frequencies  
+- can blacken photographic film through chemical reaction  
+- frequency range: 10<sup>16</sup> to 10<sup>19</sup> Hz  
+- energy range: 100 eV to 100 keV  
 
 production:  
 1\. very high-speed electrons with high energy hit a heavy metal target  
@@ -27,13 +27,13 @@ production:
 
 **attenuation**  
 causes:  
-\- electrons ionizes the medium  
-\- electrons scattered when they travel  
+- electrons ionizes the medium  
+- electrons scattered when they travel  
 
 factors:  
-\- density of medium => high => high attenuation  
-\- atomic number of element that makes up the medium => large => high attenuation  
-\- x-ray frequency => lower => higher attenutation  
+- density of medium => high => high attenuation  
+- atomic number of element that makes up the medium => large => high attenuation  
+- x-ray frequency => lower => higher attenutation  
 
 **linear attenutation coeeficient**  
 def: the distance x-ray travelled in a uniform medium to decrease the intensity  
@@ -61,23 +61,23 @@ working principle:
 4\. X-rays are attenuated to different degree  
 5\. X-rays blacken photographic film  
 
-\- X-rays attenuated more by human body => less x-ray hit the film => white  
-\- X-rays attenuated less by human body => more x-ray hit the film => darker  
+- X-rays attenuated more by human body => less x-ray hit the film => white  
+- X-rays attenuated less by human body => more x-ray hit the film => darker  
 
 advantages:  
-\- relatively inexpensive to CT scan and magnetic resonance imaging  
-\- simple & fast  
-\- provide good resolution of bony structure  
+- relatively inexpensive to CT scan and magnetic resonance imaging  
+- simple & fast  
+- provide good resolution of bony structure  
 
 disadvantages:  
-\- ionizing  
-\- poor contrast of soft tissue  
-\- image of body structures may overlap  
-\- usage of artificial contrast medium may be unpleasant or trigger allergic reactions
+- ionizing  
+- poor contrast of soft tissue  
+- image of body structures may overlap  
+- usage of artificial contrast medium may be unpleasant or trigger allergic reactions
 
 **artificial contrast medium**  
-\- high linear attenuation coefficient  
-\- to distinguish soft tissues  
+- high linear attenuation coefficient  
+- to distinguish soft tissues  
 
 example - to produce sharp contrast between stomach and its nearby tissues:  
 1\. patient need to orally take in artificial contrast medium  
@@ -96,13 +96,13 @@ working principles:
 6\. the array of numbers are converted to image by back projection  
 
 advantages:  
-\- can image cross section of a body  
-\- used to locate an abnormality  
-\- provide good contrast between various body tissues - can be used for bones, soft tissues, blood  
+- can image cross section of a body  
+- used to locate an abnormality  
+- provide good contrast between various body tissues - can be used for bones, soft tissues, blood  
 
 disadvantages:  
-\- CT scan exposes more X-rays than conventional X-ray scan  
-\- more expensive than conventional X-ray radiographic imaging  
+- CT scan exposes more X-rays than conventional X-ray scan  
+- more expensive than conventional X-ray radiographic imaging  
 
 
 **back projection**  
@@ -115,29 +115,40 @@ X-rays are directed from multiple angles to produce multiple projections
 abbreviation: RNI  
 
 working principle:  
-\- radionuclides mixed with suitable chemicals to be put in a patient's body  
-\- the nuclides emit nuclear radiation which can be detected  
-\- the accumulation of nuclides at specific organ allows tracking by detecting radiations  
+- radionuclides mixed with suitable chemicals to make the **radioactive tracer** to be put in a patient's body  
+- the nuclides emit nuclear radiation which can be detected  
+- the accumulation of nuclides at specific organ allows tracking by detecting radiations  
+
+advantages:  
+- to monitor function of an organ  
+- detect disease early (pathological changes occuring beffore structural damage)  
+- detect disease efficiently (e.g. tumour of unknown location)  
+
+disadvantage:  
+- resolution is poor  
+- radioactive tracer is introduced to the body high health risk  
+- costly  
+- non-specific diagnosis (cold spot on thyroid may due to tumour or cyst)  
 
 **radionuclides**  
 def: nuclides that emit nuclear radiation  
 
 **factors**  
-\- kinds of radiation (generally gamma is chosen)  
-\- half life  
-\- others (chemical properties, pharmaceutical properties, cost, etc)  
+- kinds of radiation (generally gamma is chosen)  
+- half life  
+- others (chemical properties, pharmaceutical properties, cost, etc)  
 
 **technetium-99m**  
 one of the most common radionuclides for RNI  
 
 properties:  
-\- emits γ rays
-\- decays into a stable nuclide (technetium-99 with ~211000 years half life)  
-\- the γ rays have suitable energy for detection  
-\- half life is 6h  
-\- non-toxic  
-\- easily attached to various chemicals, forming tracers for different organs  
-\- easily obtained and relatively inexpensive  
+- emits γ rays
+- decays into a stable nuclide (technetium-99 with ~211000 years half life)  
+- the γ rays have suitable energy for detection  
+- half life is 6h  
+- non-toxic  
+- easily attached to various chemicals, forming tracers for different organs  
+- easily obtained and relatively inexpensive  
 
 **physical half life**  
 def: the time needed for the radioactivity of a source to reduce of half its initial level  
@@ -148,9 +159,9 @@ def: the time needed for half of the radioactive substance to be removed from th
 symbol: T<sub>½b</sub>
 
 factors:  
-\- target organ  
-\- physical condition of the body  
-\- amount of intake of food and water
+- target organ  
+- physical condition of the body  
+- amount of intake of food and water
 
 **effective half life**  
 def: the actual time needed for the radioactivity indside the body to reduce of half of its initial level  
@@ -165,4 +176,50 @@ symbol: T<sub>½e</sub>
 *k*: effective decay constant  
 *t*: time  
 *A*: activity level  
-*A<sub>0</sub>*: initial activity level
+*A<sub>0</sub>*: initial activity level  
+
+**gamma camera**  
+is used to detect γ rays and form an image  
+it requires a period of time to collect γ rays  
+
+**redionuclide images**  
+- **hot spot** (darker region)
+	- indicates an accumulation of tracer more intense than normal
+	- may indicates abnormal growth of tissues
+- **cold spot** (ligher region)
+	- indicates the lack of tracer
+	- may indicates blood clottings in the region
+
+## 3.4 Safety Precautions for Ionizing Radiation
+
+**effective dose**  
+def: overall biological effects on a person resulting from exposure to ionizing radiation   
+unit: sievert (Sv)  
+
+**biological effects**  
+- acute & determinisitc
+	- skin damage
+	- damage to reproductive system
+	- damage to blood forming system
+	- damage to digestive system
+	- damage to central nervous system
+- latent & deterministic
+	- cataract
+	- damage to immune system
+- latent & stochastic
+	- cancer
+	- genetic effects
+
+**acute & latent**  
+acute: sickness immediately or shortly appear after  
+latent: sickness may appear a longer time after exposure  
+
+**determisitic & stochastic**  
+determisitic: effects happen after exposed exceeds to a certain value  
+stochastic: occur by chance, higher exposure high chance  
+
+**safte precautions**  
+- shorter time of exposure
+- longer distance  
+- shielding with denser materials
+
