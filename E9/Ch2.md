@@ -218,7 +218,7 @@ tip of endoscope:
 \- one channel for passing down tools such as forceps for cutting tissues  
 \- one channel (coherent) for transmit image  
 \- one channel (incoherent) for illumination  
-\- one channel for passing down air or water  
+\- one channel for passing down air or water for administration of drugs, irrigation, suction  
 
 usage:  
 \- diagnosis of hollow organs such as stomach and colon  
