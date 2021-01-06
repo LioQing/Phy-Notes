@@ -1,5 +1,15 @@
 ## Comparison Tables of Different Imaging Methods
 
+</empty> | ultrasound | endoscopy
+--- | --- | ---
+ionizing | no | no 
+invasive | no | yes
+cost | less expensive | more expensive
+target tissue | soft tissues | hollow organs
+precaution | bubble may form, absorbed wave converted to heat | may cause allergic reaction, infection, puncture
+<br>
+<br>
+
 </empty> | ultrasound | X-ray | 
 --- | --- | --- 
 ionizing | no | yes 
