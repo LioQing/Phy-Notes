@@ -4,8 +4,8 @@ HKDSE physics notes
 - [Book 4 - Electricity and Magnetism](https://github.com/LioQing/Phy-Notes/tree/main/Book4)
 	- [Ch.1]
 	- [Ch.2]
-	- [Ch.3](https://github.com/LioQing/Phy-Notes/tree/main/Book4/Ch3.md)
-	- [Ch.4]
+	- [Ch.3](https://github.com/LioQing/Phy-Notes/blob/main/Book4/Ch3.md)
+	- [Ch.4](https://github.com/LioQing/Phy-Notes/blob/main/Book4/Ch4.md)
 	- [Ch.5]
 	- [Ch.6]
 - [E8 - Energy and Use of Energy](https://github.com/LioQing/Phy-Notes/tree/main/E8)

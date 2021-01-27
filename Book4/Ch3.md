@@ -62,7 +62,7 @@ def: 1 kW h is the energy transferred in 1 hour in an appiance whose power is 1 
 def: the current that reverse its direction of flow periodically  
 220 V a.c. 50 Hz in mains electricity supply in HK  
 
-<img src="https://lh3.googleusercontent.com/proxy/1jyzQSI3iQIjgU9KzhAdPxj2Ru_2oOtBitjwNIHgI1We8tW9t7ac8Dzw_J2T9o5BpFzhRJSgvTUqBdtf4ZXPxquH-Pylq3UedNicCct8sdGvTOsoBpH_9c5gZL0a1fGug2N3XPU">  
+<img src="http://www.bbc.co.uk/schools/gcsebitesize/science/images/68_wiring_a_plug.gif">  
 
 image from: http://olevelphysicsblog.blogspot.com/2010/12/dangers-of-electricity.html  
 
