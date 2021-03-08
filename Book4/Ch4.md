@@ -43,10 +43,27 @@ properties:
 \- reversing current reverses direction of field lines  
 \- stronger field closer to wire  
 
+field strength calculation:
+unit: tesla (T)
+
+![formula](https://render.githubusercontent.com/render/math?math=\LARGE\\\B=\frac{\mu_0I}{2{\pi}r})  
+
+*μ<sub>0</sub>*: permeability of free space  
+*I*: current through the wire  
+*r*: distance from the wire  
+
+<img src="https://i.stack.imgur.com/4iM3O.jpg">  
+
+image from: https://physics.stackexchange.com/questions/162800/magnetic-field-direction-a-single-one-on-a-current-carrying-wire
+
 **pattern around a circular coil**  
 right-hand grip rule  
 thumb = B-field  
 other fingers = current direction  
+
+<img src="https://s3-us-west-2.amazonaws.com/courses-images-archive-read-only/wp-content/uploads/sites/222/2014/12/20110618/Figure_23_09_02a.jpg">  
+
+image from: https://courses.lumenlearning.com/physics/chapter/22-9-magnetic-fields-produced-by-currents-amperes-law/
 
 **pattern due to a solenoid**  
 rule same as above  
@@ -63,3 +80,21 @@ strength can be increased by:
 remarks:  
 \- soft-iron core switch off the field with the current  
 \- steel core retains part of the field after current is switched off
+
+field strength calculation:  
+unit: tesla (T)  
+
+![formula](https://render.githubusercontent.com/render/math?math=\LARGE\\\B=\frac{\mu_0NI}{l}=\mu_0nI)  
+
+*N*: total number of turns in solenoid  
+*l*: total length of solenoid  
+*n*: number of turns per unit length (*N* / *l*)  
+
+<img src="https://s3-us-west-2.amazonaws.com/courses-images-archive-read-only/wp-content/uploads/sites/222/2014/12/20110619/Figure_23_09_03a.jpg">  
+
+image from: https://courses.lumenlearning.com/physics/chapter/22-9-magnetic-fields-produced-by-currents-amperes-law/  
+
+**factors affecting strength of an electromagnet**  
+\- number of turns per unit length of the coil (+ve relationship)  
+\- current (+ve relationship)  
+\- soft iron (increase strength)  
