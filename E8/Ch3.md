@@ -35,6 +35,9 @@ unit: W m<sup>-2</sup> K<sup>-1</sup>
 *A*: area of the layer  
 *ΔT*: temperature difference between 2 sides (T<sub>hot</sub> - T<sub>cold</sub>)  
 
+**U-value of multiple layers of materials**  
+![formula](https://render.githubusercontent.com/render/math?math=\LARGE\\\U=\Sigma\frac{1}{U})  
+
 **Overall Thermal Transfer Value** (**OTTV**)  
 def: rate of heat gain per unit area *through the building envelope* (averaged over 1 year)  
 
