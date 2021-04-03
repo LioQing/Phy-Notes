@@ -98,3 +98,52 @@ image from: https://courses.lumenlearning.com/physics/chapter/22-9-magnetic-fiel
 \- number of turns per unit length of the coil (+ve relationship)  
 \- current (+ve relationship)  
 \- soft iron (increase strength)  
+
+## 4.3 Force due to Mangetic Field
+
+**Fleming's left-hand rule**  
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/15/LeftHandOutline.png">  
+
+image from: https://en.wikipedia.org/wiki/Fleming%27s_left-hand_rule_for_motors  
+
+thumb: magnetic force F  
+index finger: magnetic field B
+middle finger: current I  
+
+**magnetic force on a current carrying wire**  
+
+![formula](https://render.githubusercontent.com/render/math?math=\LARGE\\\F=BIlsin\theta)  
+
+F: magnetic force  
+B: magnetic field  
+I: current  
+l: length of wire inside the magnetic field  
+
+**electric motor**  
+makes use of turning effect on a coil to convert electrical energy to kindetic energy  
+
+**simple d.c. motor**  
+
+<img src="http://3.bp.blogspot.com/-_xnxL2SWOPM/SGNYlyF6WCI/AAAAAAAAAI8/-9c-lzBNK9c/s320/DC-motor.png">  
+
+mechanism of **commutator**:  
+1\. changes contact from one brush to the other for every half cycle  
+2\. this reverse the current through the coil  
+3\. as a result, reversing the direction of the forces on the coil  
+4\. the coil continues rotating in the same direction producing continous rotation  
+
+## 4.4 Magnetic Forces on Moving Charge
+
+![formula](https://render.githubusercontent.com/render/math?math=\LARGE\\\F=BQv\sin\theta)  
+
+Q: charge  
+v: velocity  
+
+**motion of a moving charge in a uniform magnetic field**  
+
+![formula](https://render.githubusercontent.com/render/math?math=\LARGE\\\BQv=\frac{mv^2}{r}=mr\omega^2)  
+
+m: mass  
+r: radius of the circular motion  
+ω: angular velocity
