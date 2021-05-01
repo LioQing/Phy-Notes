@@ -57,7 +57,7 @@ def: rate of heat gain per unit area *through the building envelope* (averaged o
 	- low-emissivity (*low-e*) coatings
 		- coating *reflect most IR* but let visible light in => *radiation* ˅  
 	- solar film
-		- similar to low-e coating
+		- coating *reflect most UV* but let visible light in => *radiation* ˅  
 - shades
 	- control shades => control radiation
 - design
